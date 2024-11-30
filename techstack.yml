@@ -1,0 +1,332 @@
+repo_name: dazeb/SimplePyScripts
+report_id: 3c58369654857ebc2c8d87c155e8ff90
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:27:24+00:00'
+requested_by: gil9red
+provider: github
+branch: master
+detected_tools_count: 22
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/dazeb/SimplePyScripts
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/flask__websocket/websocket__flask-socketio_example/requirements.txt
+  detection_source: flask__websocket/websocket__flask-socketio_example/requirements.txt
+  last_updated_by: Ilya Petrash
+  last_updated_on: 2020-02-16 13:50:25.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/vk_api__examples/vk_spam_wall/requirements.txt
+  detection_source: vk_api__examples/vk_spam_wall/requirements.txt
+  last_updated_by: Ilya Petrash
+  last_updated_on: 2015-11-01 10:52:23.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/using_custom_dll/mydll2/mydll2.sln
+  detection_source: using_custom_dll/mydll2/mydll2.sln
+  last_updated_by: ipetrash
+  last_updated_on: 2016-09-16 12:20:48.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/dazeb/SimplePyScripts
+  detection_source: Repo Metadata
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts
+  detection_source: Repo Metadata
+- name: Flask
+  description: A simple framework for building complex web applications
+  package_url: https://pypi.org/project/Flask
+  version: 1.0.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19834/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/flask__websocket/websocket__flask-socketio_example/requirements.txt
+  detection_source: flask__websocket/websocket__flask-socketio_example/requirements.txt
+  last_updated_by: ipetrash
+  last_updated_on: 2020-02-15 17:56:34.000000000 Z
+- name: Flask-Login
+  description: User session management for Flask
+  package_url: https://pypi.org/project/Flask-Login
+  version: 0.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20091/default_5d939a1a27846185eb6de438be4bf77b84b4ee87.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/flask__websocket/websocket__flask-socketio_example/requirements.txt
+  detection_source: flask__websocket/websocket__flask-socketio_example/requirements.txt
+  last_updated_by: ipetrash
+  last_updated_on: 2020-02-15 17:56:34.000000000 Z
+- name: Flask-Session
+  description: Adds server-side session support to your Flask application
+  package_url: https://pypi.org/project/Flask-Session
+  version: 0.3.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/flask__websocket/websocket__flask-socketio_example/requirements.txt
+  detection_source: flask__websocket/websocket__flask-socketio_example/requirements.txt
+  last_updated_by: ipetrash
+  last_updated_on: 2020-02-15 17:56:34.000000000 Z
+- name: MarkupSafe
+  description: Safely add untrusted strings to HTML/XML markup
+  package_url: https://pypi.org/project/MarkupSafe
+  version: 1.1.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19945/default_0b0a94e1bdf3e64deeccb23892ca2335bdc30e4f.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/flask__websocket/websocket__flask-socketio_example/requirements.txt
+  detection_source: flask__websocket/websocket__flask-socketio_example/requirements.txt
+  last_updated_by: ipetrash
+  last_updated_on: 2020-02-15 17:56:34.000000000 Z
+- name: Werkzeug
+  description: The comprehensive WSGI web application library
+  package_url: https://pypi.org/project/Werkzeug
+  version: 0.15.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19890/default_87fc2af3f2409064833512bb6fc5b04443a2e6aa.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/flask__websocket/websocket__flask-socketio_example/requirements.txt
+  detection_source: flask__websocket/websocket__flask-socketio_example/requirements.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2020-02-16 13:48:34.000000000 Z
+  vulnerabilities:
+  - name: High resource usage when parsing multipart form data with many fields
+    cve_id: CVE-2023-25577
+    cve_url: https://github.com/advisories/GHSA-xg9f-g7g7-2323
+    detected_date: Feb 16
+    severity: high
+    first_patched: 2.2.3
+  - name: Incorrect parsing of nameless cookies leads to __Host- cookies bypass
+    cve_id: CVE-2023-23934
+    cve_url: https://github.com/advisories/GHSA-px8h-6qxv-m22q
+    detected_date: Feb 16
+    severity: low
+    first_patched: 2.2.3
+- name: itsdangerous
+  description: Various helpers to pass data to untrusted environments and back
+  package_url: https://pypi.org/project/itsdangerous
+  version: 1.1.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19989/default_b1f1fc9c4c59a78443018e01395203ba8c61dcde.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/flask__websocket/websocket__flask-socketio_example/requirements.txt
+  detection_source: flask__websocket/websocket__flask-socketio_example/requirements.txt
+  last_updated_by: ipetrash
+  last_updated_on: 2020-02-15 17:56:34.000000000 Z
+- name: lxml
+  description: Powerful and Pythonic XML processing library combining libxml2/libxslt
+    with the ElementTree API
+  package_url: https://pypi.org/project/lxml
+  version: 3.4.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19835/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/vk_api__examples/vk_spam_wall/requirements.txt
+  detection_source: vk_api__examples/vk_spam_wall/requirements.txt
+  last_updated_by: Ilya Petrash
+  last_updated_on: 2015-11-01 10:52:23.000000000 Z
+  vulnerabilities:
+  - name: lxml's HTML Cleaner allows crafted and SVG embedded scripts to pass through
+    cve_id: CVE-2021-43818
+    cve_url: https://github.com/advisories/GHSA-55x5-fj6c-h6m8
+    detected_date: Dec 14
+    severity: high
+    first_patched: 4.6.5
+  - name: lxml vulnerable to Cross-site Scripting
+    cve_id: CVE-2020-27783
+    cve_url: https://github.com/advisories/GHSA-pgww-xf46-h92r
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.6.2
+  - name: lxml NULL Pointer Dereference allows attackers to cause a denial of service
+    cve_id: CVE-2022-2309
+    cve_url: https://github.com/advisories/GHSA-wrxv-2j5q-m38w
+    detected_date: Jul 7
+    severity: moderate
+    first_patched: 4.9.1
+  - name: Improper Neutralization of Input During Web Page Generation in LXML
+    cve_id: CVE-2018-19787
+    cve_url: https://github.com/advisories/GHSA-xp26-p53h-6h2p
+    detected_date: Jun 29
+    severity: moderate
+    first_patched: 4.2.5
+  - name: 'lxml vulnerable to Cross-Site Scripting '
+    cve_id: CVE-2021-28957
+    cve_url: https://github.com/advisories/GHSA-jq4v-f5q6-mjqq
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.6.3
+- name: python-engineio
+  description: Engine.IO server
+  package_url: https://pypi.org/project/python-engineio
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/flask__websocket/websocket__flask-socketio_example/requirements.txt
+  detection_source: flask__websocket/websocket__flask-socketio_example/requirements.txt
+  last_updated_by: ipetrash
+  last_updated_on: 2020-02-15 17:56:34.000000000 Z
+- name: python-socketio
+  description: Socket.IO server
+  package_url: https://pypi.org/project/python-socketio
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20330/default_cf6b540611cb9b9b5d016a661f54f50ad3400f1a.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/flask__websocket/websocket__flask-socketio_example/requirements.txt
+  detection_source: flask__websocket/websocket__flask-socketio_example/requirements.txt
+  last_updated_by: ipetrash
+  last_updated_on: 2020-02-15 17:56:34.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/vk_api__examples/vk_spam_wall/requirements.txt
+  detection_source: vk_api__examples/vk_spam_wall/requirements.txt
+  last_updated_by: Ilya Petrash
+  last_updated_on: 2018-11-02 15:43:12.000000000 Z
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/project/six
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/flask__websocket/websocket__flask-socketio_example/requirements.txt
+  detection_source: flask__websocket/websocket__flask-socketio_example/requirements.txt
+  last_updated_by: ipetrash
+  last_updated_on: 2020-02-15 17:56:34.000000000 Z
+- name: vk_api
+  description: Python модуль для написания скриптов для социальной сети Вконтакте
+  package_url: https://pypi.org/project/vk_api
+  version: '6.3'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/dazeb/SimplePyScripts/blob/master/vk_api__examples/vk_spam_wall/requirements.txt
+  detection_source: vk_api__examples/vk_spam_wall/requirements.txt
+  last_updated_by: Ilya Petrash
+  last_updated_on: 2015-11-01 10:52:23.000000000 Z
